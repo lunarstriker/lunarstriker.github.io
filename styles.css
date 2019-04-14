@@ -82,7 +82,7 @@ p{
  }
 
 
-.post-container:nth-child(even) {
+.post-content:nth-child(even) {
   background-color: #f2f2f2;  
 }
 
